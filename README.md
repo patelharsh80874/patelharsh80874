@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **patelharsh80874@yahoo.com**
 
-- 📄 Know about my experiences [Resume 🔗](https://drive.google.com/file/d/1A-LYbXnkvKhqXaELDMROouRpIyj4HRVw/view)
+- 📄 Know about my experiences [Resume 🔗](https://drive.google.com/file/d/1C9u3rDbyZc5OLy5MsshydXpgw7jFQzog/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am The Best🫡**
 
