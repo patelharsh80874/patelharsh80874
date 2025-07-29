@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARSH PATEL</h1>
 <h3 align="center">A passionate frontend developer from Ahmedabad, India</h3>
 
-![](https://komarev.com/ghpvc/?username=patelharsh80874&style=for-the-badge)
+<h3 align="center">![](https://komarev.com/ghpvc/?username=patelharsh80874&style=for-the-badge)</h3>
 
 - 🔭 I’m currently working on [THE-ULTIMATE-SONGS-WEBAPP](https://github.com/patelharsh80874/THE-ULTIMATE-SONGS-WEBAPP)
 
