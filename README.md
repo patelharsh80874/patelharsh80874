@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=patelharsh80874&style=for-the-badge)
 
-- 🔭 I’m currently working on [THE-ULTIMATE-SONGS-APP-ANDROID-IOS](https://github.com/patelharsh80874/THE-ULTIMATE-SONGS-APP-ANDROID-IOS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/patelharsh80874](https://github.com/patelharsh80874)
 
