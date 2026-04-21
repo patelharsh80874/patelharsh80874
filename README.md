@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARSH PATEL</h1>
-<h3 align="center">A passionate frontend developer from Ahmedabad, India</h3>
+<h3 align="center">A passionate MERN Full Stack Developer from Ahmedabad, India</h3>
 
 ![](https://komarev.com/ghpvc/?username=patelharsh80874&style=for-the-badge)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **patelharsh80874@yahoo.com**
 
-- 📄 Know about my experiences [Resume 🔗](https://drive.google.com/file/d/1By1F1MFDlSX4Smytfzf1rSqdUwnSshoL/view?usp=sharing)
+- 📄 Know about my experiences [Resume 🔗](https://www.patelharsh.in/HARSH_PATEL.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
